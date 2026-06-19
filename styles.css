@@ -334,18 +334,8 @@ p {
 }
 
 .member-row {
-  display: grid;
-  grid-template-columns: 48px 1fr;
-  gap: 18px;
-  align-items: center;
   padding: 22px 4px;
   border-bottom: 1px solid var(--line);
-}
-
-.member-row > span {
-  color: var(--red);
-  font-family: Impact, Haettenschweiler, "Arial Black", sans-serif;
-  font-size: 1rem;
 }
 
 .member-row h3 {
@@ -807,8 +797,6 @@ p {
   }
 
   .member-row {
-    grid-template-columns: 36px 1fr;
-    gap: 10px;
     padding: 11px 2px;
   }
 

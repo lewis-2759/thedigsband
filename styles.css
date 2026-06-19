@@ -334,7 +334,7 @@ p {
 }
 
 .member-row {
-  padding: 22px 4px;
+  padding: 22px 4px 22px 70px;
   border-bottom: 1px solid var(--line);
 }
 
